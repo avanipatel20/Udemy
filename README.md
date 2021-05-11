@@ -6,5 +6,4 @@ Some updates for diff command
 
 Updating this file
 
-Who cares
-
+Very bad update 
